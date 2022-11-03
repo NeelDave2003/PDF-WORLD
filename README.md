@@ -25,4 +25,6 @@ FEATURES :-
 
 Most Important thing is all the above-mentioned Features are available in one Project.
 
+NOTE :- All the  files that you are going to work using this Project must be in the Same Folder. 
+
 CREATED BY :- NEEL N. DAVE
